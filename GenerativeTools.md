@@ -1,4 +1,4 @@
-# FA_AI_influencers
+# FA AI influencers Toolbox
 generative AI powered fashion models
 
 To access the Generate Video Colab Pro environment click the link below
